@@ -1,0 +1,336 @@
+# depslib dependency file v1.0
+1639429396 source:c:\kyrsovaya\kursovaya\main.cpp
+	"Loop.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326067786 c:\sdl\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326067794 c:\sdl\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326067800 c:\sdl\sdl-1.2.15\include\sdl\begin_code.h
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\close_code.h
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325695438 c:\sdl\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771592 c:\sdl\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103176561 c:\sdl\sdl-1.2.15\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1637987239 c:\kyrsovaya\kursovaya\loop.h
+
+1639417962 source:c:\kyrsovaya\kursovaya\loop.cpp
+	<SDL.h>
+	"Loop.h"
+	"SDL_Handler.h"
+	"Game.h"
+	"Timer.h"
+
+1639418954 c:\kyrsovaya\kursovaya\sdl_handler.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Global.h"
+	<stdio.h>
+	<string>
+
+1639427178 source:c:\kyrsovaya\kursovaya\sdl_handler.cpp
+	"SDL_Handler.h"
+
+1639426236 source:c:\kyrsovaya\kursovaya\hero.cpp
+	"Hero.h"
+
+1639423687 c:\kyrsovaya\kursovaya\hero.h
+	"Global.h"
+	<SDL.h>
+	"SDL_Handler.h"
+	"Collision.h"
+	<iostream>
+	<array>
+	<list>
+
+1638505775 c:\kyrsovaya\kursovaya\unit.h
+	"SDL_Handler.h"
+	"SDL.h"
+
+1638163679 source:c:\kyrsovaya\kursovaya\unit.cpp
+	"Unit.h"
+
+1637984994 c:\kyrsovaya\kursovaya\vector2.h
+
+1639429228 source:c:\kyrsovaya\kursovaya\game.cpp
+	"Game.h"
+
+1639418954 c:\kyrsovaya\kursovaya\game.h
+	<array>
+	<stdio.h>
+	<string>
+	<sstream>
+	<iostream>
+	<fstream>
+	<SDL_ttf.h>
+	"Collision.h"
+	"GhostManager.h"
+	"Global.h"
+	"SDL_Handler.h"
+	"Hero.h"
+	"Enemy.h"
+
+1638534907 source:c:\kyrsovaya\kursovaya\timer.cpp
+	"Timer.h"
+
+1638534911 c:\kyrsovaya\kursovaya\timer.h
+	<SDL.h>
+
+1638711574 source:c:\kyrsovaya\kursovaya\block.cpp
+	"Block.h"
+
+1638711574 c:\kyrsovaya\kursovaya\block.h
+	"SDL_Handler.h"
+
+1639417962 c:\kyrsovaya\kursovaya\global.h
+
+1639423687 source:c:\kyrsovaya\kursovaya\collision.cpp
+	"Collision.h"
+
+1639423687 c:\kyrsovaya\kursovaya\collision.h
+	<array>
+	<math.h>
+	<stdio.h>
+	"Global.h"
+
+1639427101 source:c:\kyrsovaya\kursovaya\enemy.cpp
+	"Enemy.h"
+
+1639423687 c:\kyrsovaya\kursovaya\enemy.h
+	<SDL.h>
+	<array>
+	"Global.h"
+	"SDL_Handler.h"
+	"Collision.h"
+	"Hero.h"
+
+1639427101 source:c:\kyrsovaya\kursovaya\ghostmanager.cpp
+	"GhostManager.h"
+
+1639427101 c:\kyrsovaya\kursovaya\ghostmanager.h
+	"Enemy.h"
+	"Global.h"
+	<SDL.h>
+	"Hero.h"
+	<array>
+
+1639430044 source:c:\kyrsovaya\kursovaya\src\collision.cpp
+	"Collision.h"
+
+1639427101 source:c:\kyrsovaya\kursovaya\src\enemy.cpp
+	"Enemy.h"
+
+1639432567 source:c:\kyrsovaya\kursovaya\src\game.cpp
+	"Game.h"
+
+1639427101 source:c:\kyrsovaya\kursovaya\src\ghostmanager.cpp
+	"GhostManager.h"
+
+1639426236 source:c:\kyrsovaya\kursovaya\src\hero.cpp
+	"Hero.h"
+
+1639417962 source:c:\kyrsovaya\kursovaya\src\loop.cpp
+	<SDL.h>
+	"Loop.h"
+	"SDL_Handler.h"
+	"Game.h"
+	"Timer.h"
+
+1639427178 source:c:\kyrsovaya\kursovaya\src\sdl_handler.cpp
+	"SDL_Handler.h"
+
+1638534907 source:c:\kyrsovaya\kursovaya\src\timer.cpp
+	"Timer.h"
+

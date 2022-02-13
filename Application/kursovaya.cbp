@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="kursovaya" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/kursovaya" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/kursovaya" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../../SDL/SDL-1.2.15/include/SDL" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDLmain -lSDL -lSDL_draw -lSDL_ttf -lSDL_image -lSDL.dll" />
+			<Add directory="../../SDL/SDL-1.2.15/lib" />
+		</Linker>
+		<Unit filename="include/Collision.h" />
+		<Unit filename="include/Enemy.h" />
+		<Unit filename="include/Game.h" />
+		<Unit filename="include/GhostManager.h" />
+		<Unit filename="include/Global.h" />
+		<Unit filename="include/Hero.h" />
+		<Unit filename="include/Loop.h" />
+		<Unit filename="include/SDL_Handler.h" />
+		<Unit filename="include/Timer.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Collision.cpp" />
+		<Unit filename="src/Enemy.cpp" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/GhostManager.cpp" />
+		<Unit filename="src/Hero.cpp" />
+		<Unit filename="src/Loop.cpp" />
+		<Unit filename="src/SDL_Handler.cpp" />
+		<Unit filename="src/Timer.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
